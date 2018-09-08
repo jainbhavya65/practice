@@ -1,8 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Type=Application
-Terminal=false
-Exec=crm-promote start
-Name=CRM_Promote
-Comment=CRM_Promite
-Icon=/usr/local/src/crmpromote/CRM-PROMOTE.png

@@ -1,8 +1,0 @@
-Package: crm-promote
-Version: 1.0
-Section: custom
-Priority: optional
-Architecture: all
-Essential: no
-Maintainer: iface.io
-Description: crm-promote is a tool which help developer to modify their code for "Production ready"
